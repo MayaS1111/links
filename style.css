@@ -1,0 +1,63 @@
+html{
+  background-color: green;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color:#fff;
+}
+
+/*banner{
+  justify-content: center;
+}
+
+.bio{
+  justify-content: center;
+}
+*/
+.name {
+  margin: 0px;
+}
+
+.bio {
+  margin: 0px;
+}
+
+.social-icons {
+  margin: 30px;
+}
+
+.social-icon {
+  margin: 20px;
+  color:#fff;
+}
+
+.social-icon:hover{
+  color:black;
+}
+
+.project-links {
+
+}
+
+.project-link {
+  background-color:  rgb(3, 80, 3);
+  margin: 2px;
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.project-link a{
+  margin-left:0; 
+  color:#fff;
+}
+
+.project-link a:hover{
+  color:black;
+}
