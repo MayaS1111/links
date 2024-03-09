@@ -16,18 +16,6 @@ video{
   position: absolute;
   object-fit: cover;
 }
-canvas {
-  z-index: -1;
-  position: absolute;
-  width: 100%;
-  min-height: 100%;
-  transform: rotate(0deg) scale(2) translateY(-50%);
-  --gradient-color-1: #f3d141;
-  --gradient-color-2: #b65422;
-  --gradient-color-3: #54b7fb;
-  --gradient-color-4: #5c03c5;
-  --gradient-speed: 0.000006;
-}
 
 .banner img{
   border-radius: 100%;
